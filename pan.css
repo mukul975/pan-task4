@@ -1,0 +1,24 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  table{
+    background-color: palegoldenrod;
+}  
+ 
+.blue{
+    color:blue;
+}
+.star::before{
+    content : "*";
+    color: red;
+}
+.fname,.mname{
+    margin-left: 250px;
+}
+.Fname{
+    margin-left: 195px ;
+}
+.Mname{
+    margin-left: 140px ;
+}
